@@ -1,0 +1,39 @@
+<uml>
+   <greenVersion="30500"/>
+   <type>
+      <name="=Hangman/src<hangmang{Hangman.java[Hangman"/>
+      <height="-1"/>
+      <width="-1"/>
+      <x="11"/>
+      <y="199"/>
+   </type>
+   <type>
+      <name="=Hangman/src<hangmang{InputException.java[InputException"/>
+      <height="-1"/>
+      <width="-1"/>
+      <x="223"/>
+      <y="4"/>
+   </type>
+   <relationship>
+      <class="edu.buffalo.cse.green.relationship.dependency.DependencyIPart"/>
+      <sourceType="=Hangman/src<hangmang{Hangman.java[Hangman"/>
+      <targetType="=Hangman/src<hangmang{InputException.java[InputException"/>
+      <bendpoints>
+      </bendpoints>
+   </relationship>
+   <type>
+      <name="=Hangman/src<hangmang{Vocabulary.java[Vocabulary"/>
+      <height="-1"/>
+      <width="-1"/>
+      <x="294"/>
+      <y="198"/>
+   </type>
+   <relationship>
+      <class="edu.buffalo.cse.green.relationship.composition.CompositionPart"/>
+      <sourceType="=Hangman/src<hangmang{Hangman.java[Hangman"/>
+      <targetType="=Hangman/src<hangmang{Vocabulary.java[Vocabulary"/>
+      <bendpoints>
+      </bendpoints>
+   </relationship>
+</uml>
+

@@ -1,0 +1,18 @@
+<uml>
+   <greenVersion="30500"/>
+   <type>
+      <name="=FileUtility/src<fileutility{FileCombiner.java[FileCombiner"/>
+      <height="-1"/>
+      <width="-1"/>
+      <x="34"/>
+      <y="29"/>
+   </type>
+   <type>
+      <name="=FileUtility/src<fileutility{FileSplitter.java[FileSplitter"/>
+      <height="-1"/>
+      <width="-1"/>
+      <x="249"/>
+      <y="26"/>
+   </type>
+</uml>
+
